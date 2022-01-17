@@ -1,0 +1,7 @@
+{
+  "name": "projectFire",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
